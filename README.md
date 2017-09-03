@@ -2,6 +2,7 @@
 This repo helps you to visualize the stats curves of spirits.
 
 An example can be viewed [here](https://gist.github.com/WenjieZ/d699211f31579af2644f7212619c4741).
+The x-axis is the 4-star exp card needed.
 
 You can edit the ipython notebook to custermize the figure.
 
